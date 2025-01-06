@@ -151,3 +151,11 @@ F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\obj\Debug\net8.0\refint\Ecommerz.Se
 F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\obj\Debug\net8.0\Ecommerz.Server.pdb
 F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\obj\Debug\net8.0\Ecommerz.Server.genruntimeconfig.cache
 F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\obj\Debug\net8.0\ref\Ecommerz.Server.dll
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
