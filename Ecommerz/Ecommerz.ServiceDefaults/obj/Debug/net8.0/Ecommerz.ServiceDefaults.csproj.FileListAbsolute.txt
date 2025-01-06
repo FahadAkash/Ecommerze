@@ -1,0 +1,13 @@
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\bin\Debug\net8.0\Ecommerz.ServiceDefaults.deps.json
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\bin\Debug\net8.0\Ecommerz.ServiceDefaults.dll
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\bin\Debug\net8.0\Ecommerz.ServiceDefaults.pdb
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\obj\Debug\net8.0\Ecommerz.ServiceDefaults.csproj.AssemblyReference.cache
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\obj\Debug\net8.0\Ecommerz.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\obj\Debug\net8.0\Ecommerz.ServiceDefaults.AssemblyInfoInputs.cache
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\obj\Debug\net8.0\Ecommerz.ServiceDefaults.AssemblyInfo.cs
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\obj\Debug\net8.0\Ecommerz.ServiceDefaults.csproj.CoreCompileInputs.cache
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\obj\Debug\net8.0\Ecommerz.ServiceDefaults.sourcelink.json
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\obj\Debug\net8.0\Ecommerz.ServiceDefaults.dll
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\obj\Debug\net8.0\refint\Ecommerz.ServiceDefaults.dll
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\obj\Debug\net8.0\Ecommerz.ServiceDefaults.pdb
+F:\gihtub\Ecommerze\Ecommerz\Ecommerz.ServiceDefaults\obj\Debug\net8.0\ref\Ecommerz.ServiceDefaults.dll
