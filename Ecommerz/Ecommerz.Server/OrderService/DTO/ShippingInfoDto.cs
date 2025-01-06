@@ -3,17 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Ecommerz.Server.UserService.Models
+namespace Ecommerz.Server.OrderService.DTO
 {
-    public class ShippingInfo
+    public class ShippingInfoDto
     {
-        public int ShippingInfoID { get; set; }
         public string Address { get; set; }
         public string City { get; set; }
         public string State { get; set; }
         public string ZipCode { get; set; }
-        public int userId { get; set; }
-        public User User { get; set; }
-        public ShippingInfo shippingInfo { get; set; }
     }
 }

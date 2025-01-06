@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecommerz.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6973f1b85e2cc4945777095ad70098bbb26d92b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b7890249eb213dded5aa4e3ee4b7bf99fbbd407")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecommerz.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecommerz.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

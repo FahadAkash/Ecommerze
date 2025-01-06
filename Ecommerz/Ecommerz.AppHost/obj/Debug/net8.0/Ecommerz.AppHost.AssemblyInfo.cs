@@ -23,7 +23,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ecommerz.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8d0204131fcc6c44340c0d34b7caa47c168b0b6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b7890249eb213dded5aa4e3ee4b7bf99fbbd407")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ecommerz.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ecommerz.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

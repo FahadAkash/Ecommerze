@@ -1,4 +1,6 @@
 using System.Text;
+using Ecommerz.Server.CartService.Services;
+using Ecommerz.Server.CartService.Services.Interface;
 using Ecommerz.Server.UserService.DBcontext;
 using Ecommerz.Server.UserService.Services;
 using Ecommerz.Server.UserService.Services.Interface;
@@ -18,6 +20,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<UserDbContext>(options => options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 builder.Services.AddScoped<IUserServices, UserService>();
+builder.Services.AddScoped<ICartItem, CartService>();
 builder.Services.AddHttpContextAccessor();
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(

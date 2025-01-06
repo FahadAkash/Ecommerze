@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "F:\\gihtub\\Ecommerze\\Ecommerz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|f:\\gihtub\\ecommerze\\ecommerz\\ecommerz.server\\dbcontext\\usermaintainauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|solutionrelative:ecommerz.server\\dbcontext\\usermaintainauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|f:\\gihtub\\ecommerze\\ecommerz\\ecommerz.server\\cartservice\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|solutionrelative:ecommerz.server\\cartservice\\services\\cartitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|f:\\gihtub\\ecommerze\\ecommerz\\ecommerz.server\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|solutionrelative:ecommerz.server\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|f:\\gihtub\\ecommerze\\ecommerz\\ecommerz.server\\cartservice\\services\\interface\\icartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|solutionrelative:ecommerz.server\\cartservice\\services\\interface\\icartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|f:\\gihtub\\ecommerze\\ecommerz\\ecommerz.server\\userservice\\dto\\shippinginfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|solutionrelative:ecommerz.server\\userservice\\dto\\shippinginfodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|f:\\gihtub\\ecommerze\\ecommerz\\ecommerz.server\\cartservice\\dto\\addcartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|solutionrelative:ecommerz.server\\cartservice\\dto\\addcartitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|f:\\gihtub\\ecommerze\\ecommerz\\ecommerz.server\\cartservice\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3891F5C-3986-49B6-8C0A-5BFC35671AF6}|Ecommerz.Server\\Ecommerz.Server.csproj|solutionrelative:ecommerz.server\\cartservice\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\DBContext\\UserMaintainAuth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecommerz.Server\\DBContext\\UserMaintainAuth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecommerz.Server\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,19 +43,82 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserMaintainAuth.cs",
-              "DocumentMoniker": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\DBContext\\UserMaintainAuth.cs",
-              "RelativeDocumentMoniker": "Ecommerz.Server\\DBContext\\UserMaintainAuth.cs",
-              "ToolTip": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\DBContext\\UserMaintainAuth.cs",
-              "RelativeToolTip": "Ecommerz.Server\\DBContext\\UserMaintainAuth.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "CartItemService.cs",
+              "DocumentMoniker": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\CartService\\Services\\CartItemService.cs",
+              "RelativeDocumentMoniker": "Ecommerz.Server\\CartService\\Services\\CartItemService.cs",
+              "ToolTip": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\CartService\\Services\\CartItemService.cs",
+              "RelativeToolTip": "Ecommerz.Server\\CartService\\Services\\CartItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T05:36:23.56Z",
+              "WhenOpened": "2025-01-06T14:05:19.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ICartItem.cs",
+              "DocumentMoniker": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\CartService\\Services\\Interface\\ICartItem.cs",
+              "RelativeDocumentMoniker": "Ecommerz.Server\\CartService\\Services\\Interface\\ICartItem.cs",
+              "ToolTip": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\CartService\\Services\\Interface\\ICartItem.cs",
+              "RelativeToolTip": "Ecommerz.Server\\CartService\\Services\\Interface\\ICartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:04:51.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShippingInfoDto.cs",
+              "DocumentMoniker": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\UserService\\DTO\\ShippingInfoDto.cs",
+              "RelativeDocumentMoniker": "Ecommerz.Server\\UserService\\DTO\\ShippingInfoDto.cs",
+              "ToolTip": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\UserService\\DTO\\ShippingInfoDto.cs",
+              "RelativeToolTip": "Ecommerz.Server\\UserService\\DTO\\ShippingInfoDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:04:26.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddCartItemDto.cs",
+              "DocumentMoniker": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\CartService\\DTO\\AddCartItemDto.cs",
+              "RelativeDocumentMoniker": "Ecommerz.Server\\CartService\\DTO\\AddCartItemDto.cs",
+              "ToolTip": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\CartService\\DTO\\AddCartItemDto.cs",
+              "RelativeToolTip": "Ecommerz.Server\\CartService\\DTO\\AddCartItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:04:10.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\CartService\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "Ecommerz.Server\\CartService\\Models\\Cart.cs",
+              "ToolTip": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\CartService\\Models\\Cart.cs",
+              "RelativeToolTip": "Ecommerz.Server\\CartService\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T14:03:50.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserMaintainAuth.cs",
+              "DocumentMoniker": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\DBContext\\UserMaintainAuth.cs",
+              "RelativeDocumentMoniker": "Ecommerz.Server\\DBContext\\UserMaintainAuth.cs",
+              "ToolTip": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\DBContext\\UserMaintainAuth.cs",
+              "RelativeToolTip": "Ecommerz.Server\\DBContext\\UserMaintainAuth.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T05:36:23.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "F:\\gihtub\\Ecommerze\\Ecommerz\\Ecommerz.Server\\Model\\User.cs",
               "RelativeDocumentMoniker": "Ecommerz.Server\\Model\\User.cs",
@@ -43,8 +126,7 @@
               "RelativeToolTip": "Ecommerz.Server\\Model\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-06T05:35:38.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-06T05:35:38.693Z"
             }
           ]
         }

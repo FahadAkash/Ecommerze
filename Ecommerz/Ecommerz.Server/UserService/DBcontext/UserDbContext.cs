@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Ecommerz.Server.CartService.Models;
 using Ecommerz.Server.UserService.Models;
 using Microsoft.EntityFrameworkCore;
 
